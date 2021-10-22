@@ -11,6 +11,6 @@ int main()
 	cout << "Hello People of the Internet!" << endl;
 	cout << "What's your name? ";
 	cin >> name;
-	cout << "Well hello there " << name << "!" << endl;
+	cout << "Hello there, " << name << "!" << endl;
 	return 0;
 }
